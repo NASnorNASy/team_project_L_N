@@ -1,0 +1,170 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    width: 1373px;
+    height: 4980px;
+    background-color: rgb(252, 252, 252);
+}
+
+.first_box {
+    background-position: right;
+    background: url('image\ 1048\ \(2\).png');
+    width: 1519px;
+    height: 1004px;
+}
+
+.qw {
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 73px;
+    margin-top: 180px;
+}
+
+.qw1 {
+    color: rgb(0, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 73px;
+    margin-top: 13px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    padding: 15px;
+}
+
+#inv {
+    background: none;
+    border: none;
+    margin-top: 7.5px;
+    margin-left: 3px;
+}
+
+#img1 {
+    margin-top: 7.5px;
+    width: 12.67px;
+    height: 12.67px;
+}
+
+.first_inbox {
+    display: flex;
+    flex-direction: row;
+    border: 1px rgb(52, 168, 83) solid;
+    border-radius: 4px;
+    padding: 8px;
+    width: 169px;
+    margin-right: 170px;
+}
+
+.second_inbox {
+    display: flex;
+    flex-direction: row;
+    width: 110px;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-right: 80px;
+}
+
+.third_inbox {
+    margin-right: 20px;
+}
+
+.forth_inbox {
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.fifth_inbox {
+    display: flex;
+    flex-direction: row;
+    margin-left: 77px;
+    margin-top: 100px;
+}
+
+.sixth_inbox {
+    display: flex;
+    flex-direction: row;
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 20px;
+    color: black;
+    margin-left: 77px;
+    margin-top: 160px;
+}
+
+.first_ininbox {
+    display: flex;
+    flex-direction: column;
+    margin-right: 90px;
+}
+
+.second_ininbox {
+    display: flex;
+    flex-direction: column;
+}
+
+#text1 {
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    color: rgb(25, 29, 35);
+    font-family: Manrope;
+}
+
+#button1,
+#button2 {
+
+    border: none;
+    background: none;
+}
+
+#button3 {
+    width: 200px;
+    height: 35px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(240, 186, 48);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    margin-right: 50px;
+
+}
+
+.button4 {
+    border: none;
+    background: none;
+    width: 180px;
+    height: 36px;
+}
+
+#s1 {
+    margin-top: 9px;
+}
+
+#img3 {
+    width: 141px;
+}
+
+#first_hr {
+    border: 1px Middle rgb(231, 234, 238);
+    width: 1451px;
+    margin-left: 34px;
+}
+
+
+#q4 {
+    margin-top: 20px;
+}
+#q2{
+    margin-top: 40px;
+}
